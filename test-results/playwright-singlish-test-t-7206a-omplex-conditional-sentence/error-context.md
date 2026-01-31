@@ -134,6 +134,7 @@
           - img [ref=e151]
         - generic [ref=e153]:
           - generic [ref=e154]: Sinhala
+          - generic [ref=e155]: ඔය එන්නෙ නම් මම බලන් ඉන්නවා
           - generic [ref=e156]:
             - button "Copy" [ref=e157] [cursor=pointer]:
               - img [ref=e158]
